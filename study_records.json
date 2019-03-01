@@ -1,24 +1,21 @@
 {
-  "k_error": 0,
-  "msg": "操作成功",
-  "records": [
-    {
-      "name": "人教版英语（2019三年级）",
-      "type": 6000,
-      "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg"
-     
-    },
-    {
-      "name": "人教版英语（2018三年级）",
-      "type": 6000,
-      "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg"
-      
-    },
-    {
-      "name": "人教版英语（2017三年级）",
-      "type": 6000,
-      "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg"
-     
-    }
-  ]
+k_error: 0,
+msg: "操作成功",
+Records: [
+{
+name: "人教版英语（2019三年级）",
+type: 6000,
+cover: "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg"
+},
+{
+name: "人教版英语（2018三年级）",
+type: 6000,
+cover: "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg"
+},
+{
+name: "人教版英语（2017三年级）",
+type: 6000,
+cover: "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg"
+}
+]
 }

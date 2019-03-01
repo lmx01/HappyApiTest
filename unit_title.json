@@ -1,0 +1,23 @@
+{
+  "k_error": 0,
+  "msg": "操作成功",
+  "data": [
+    {
+      "title": "全部",
+      "selected": 0
+    },
+    {
+      "title": "unit1",
+      "selected": 1
+    },
+    {
+      "title": "unit2",
+      "selected": 0
+    },
+    {
+      "title": "unit3",
+      "selected": 0
+    }
+  ]
+}
+

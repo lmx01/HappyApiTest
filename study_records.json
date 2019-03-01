@@ -1,0 +1,57 @@
+{
+  "k_error": 0,
+  "msg": "操作成功",
+  "records": [
+    {
+      "name": "人教版英语（2019三年级）",
+      "type": 6000,
+      "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg",
+      "contents": [
+        {
+          "c_type": 7000,
+          "title": "单词速记",
+          "c_id": 111111
+        },
+        {
+          "c_type": 7001,
+          "title": "单词听写",
+          "c_id": 111112
+        }
+      ]
+    },
+    {
+      "name": "人教版英语（2018三年级）",
+      "type": 6000,
+      "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg",
+      "contents": [
+        {
+          "c_type": 7000,
+          "title": "单词速记",
+          "c_id": 111113
+        },
+        {
+          "c_type": 7001,
+          "title": "单词听写",
+          "c_id": 111114
+        }
+      ]
+    },
+    {
+      "name": "人教版英语（2017三年级）",
+      "type": 6000,
+      "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg",
+      "contents": [
+        {
+          "c_type": 7000,
+          "title": "单词速记",
+          "c_id": 111115
+        },
+        {
+          "c_type": 7001,
+          "title": "单词听写",
+          "c_id": 111116
+        }
+      ]
+    }
+  ]
+}

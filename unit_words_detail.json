@@ -1,0 +1,34 @@
+{
+  "k_error": 0,
+  "msg": "操作成功",
+  "data": [
+    {
+      "id": 6000,
+      "symbol": "hello",
+      "disc": "[n] 问候，你好",
+      "sentence": "Hello, who's speaking, please?",
+      "audio": "http://dict.youdao.com/dictvoice?type=1&audio=hello"
+    },
+    {
+      "id": 6001,
+      "symbol": "world",
+      "disc": "[n] 世界",
+      "sentence": "Our world is but a small part of the cosmos.",
+      "audio": "http://dict.youdao.com/dictvoice?type=1&audio=world"
+    },
+    {
+      "id": 6002,
+      "symbol": "first",
+      "disc": "adv. 第一；首先；优先；宁愿",
+      "sentence": "You should rip the cover off the box first.",
+      "audio": "http://dict.youdao.com/dictvoice?type=1&audio=first"
+    },
+    {
+      "id": 6003,
+      "symbol": "second",
+      "disc": "n. 秒；第二名；瞬间；二等品",
+      "sentence": "Second litters can be put off in autumn as porkers.",
+      "audio": "http://dict.youdao.com/dictvoice?type=1&audio=second"
+    }
+  ]
+}

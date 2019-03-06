@@ -1,0 +1,26 @@
+{
+  "k_error": 0,
+  "msg": "操作成功",
+  "data": [
+    {
+      "id": 6000,
+      "r_count": 4,
+      "f_count": 2
+    },
+    {
+      "id": 6001,
+      "r_count": 3,
+      "f_count": 2
+    },
+    {
+      "id": 6002,
+      "r_count": 1,
+      "f_count": 2
+    },
+    {
+      "id": 6003,
+      "r_count": 0,
+      "f_count": 0
+    }
+  ]
+}

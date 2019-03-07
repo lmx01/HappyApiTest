@@ -21,6 +21,26 @@
       "id": 6003,
       "r_count": 0,
       "f_count": 0
+    },
+    {
+      "id": 6000,
+      "r_count": 4,
+      "f_count": 5
+    },
+    {
+      "id": 6001,
+      "r_count": 4,
+      "f_count": 3
+    },
+    {
+      "id": 6002,
+      "r_count": 4,
+      "f_count": 2
+    },
+    {
+      "id": 6003,
+      "r_count": 4,
+      "f_count": 0
     }
   ]
 }

@@ -16,11 +16,16 @@
           "c_type": 7001,
           "title": "单词听写",
           "c_id": 111112
+        },
+        {
+          "c_type": 7002,
+          "title": "发音矫正",
+          "c_id": 111115
         }
       ]
     },
     {
-      "name": "人教版数学（2019三年级）",
+      "name": "人教版英语（2019二年级）",
       "type": 7000,
       "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg",
       "contents": [
@@ -42,7 +47,7 @@
       ]
     },
     {
-      "name": "人教版语文（2019三年级）",
+      "name": "人教版英语（2019一年级）",
       "type": 8000,
       "cover": "http://img04.taobaocdn.com/bao/uploaded/i4/TB1Q7U_OXXXXXXtXpXXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg",
       "contents": [
@@ -55,6 +60,11 @@
           "c_type": 7001,
           "title": "单词听写",
           "c_id": 111116
+        },
+        {
+          "c_type": 7002,
+          "title": "单词发音",
+          "c_id": 111115
         }
       ]
     }

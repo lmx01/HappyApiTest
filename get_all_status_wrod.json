@@ -5,22 +5,22 @@
     {
       "id": 6000,
       "r_count": 4,
-      "f_count": 2
+      "f_count": 4
     },
     {
       "id": 6001,
       "r_count": 4,
-      "f_count": 1
+      "f_count": 4
     },
     {
       "id": 6002,
       "r_count": 4,
-      "f_count": 1
+      "f_count": 3
     },
     {
       "id": 6003,
       "r_count": 4,
-      "f_count": 0
+      "f_count": 2
     }
   ]
 }

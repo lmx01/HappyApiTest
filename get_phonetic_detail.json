@@ -1,0 +1,48 @@
+{
+  "k_error": 0,
+  "msg": "操作成功",
+  "data": {
+    "id": 1,
+    "symbol": "/∫/",
+    "desc": "是摩擦、硬腭、清辅音,旧版音标和美式音标对应的符号都是[ʃ]。",
+    "think": "诗",
+    "video": [
+      {
+        "title": "发音器官示范",
+        "url": "http://i.xiao84.com/en-yinbiao/x-48yinbiao/kouxing/1.swf"
+      },
+      {
+        "title": "发音口型示范",
+        "url": "http://i.xiao84.com/en-yinbiao/x-48yinbiao/kouxing/1.swf"
+      }
+    ],
+    "tips": "1）上下齿自然合拢，嘴唇张开不要太大，稍微收圆。\n2）舌端抬起，靠近齿龈后部，但不要贴住。\n3）舌身抬起，靠近上腭，形成一条狭长的通道。气流通过通道时摩擦成音。",
+    "notice": "/∫/是个清辅音，声带不震动。/ʃ/和汉语中的声母sh很相近，但要注意的是/ʃ/不卷舌，是个平舌音。",
+    "demo_words": [
+      {
+        "symbol": "cla[sh]",
+        "desc": "vi. 冲突",
+        "phonogram": "/klæʃ/",
+        "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
+      },
+      {
+        "symbol": "cla[sh]",
+        "desc": "vi. 冲突",
+        "phonogram": "/klæʃ/",
+        "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
+      },
+      {
+        "symbol": "cla[sh]",
+        "desc": "vi. 冲突",
+        "phonogram": "/klæʃ/",
+        "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
+      },
+      {
+        "symbol": "cla[sh]",
+        "desc": "vi. 冲突",
+        "phonogram": "/klæʃ/",
+        "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
+      }
+    ]
+  }
+}

@@ -1,86 +1,86 @@
 {
-  "k_error": 0,
-  "msg": "操作成功",
-  "data": {
-"1": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 10,
-      "top_score": 11
-    },
-    "3": {
-      "symbol": "/uː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 12,
-      "top_score": 13
-    },
-    "4": {
-      "symbol": "/ei/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 14,
-      "top_score": 15
-    },
-    "5": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-   "6": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "7": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "8": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "9": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "10": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "11": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "12": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "13": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
-    },
-    "14": {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_score": 88
+    "k_error": 0,
+    "msg": "操作成功",
+    "data": {
+        "aa": {
+            "symbol": "/iː/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 10,
+            "top_score": 11
+        },
+        "ac": {
+            "symbol": "/uː/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 12,
+            "top_score": 13
+        },
+        "ad": {
+            "symbol": "/ei/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 14,
+            "top_score": 15
+        },
+        "ae": {
+            "symbol": "/ɪə/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 16,
+            "top_score": 17
+        },
+        "af": {
+            "symbol": "/p/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 18,
+            "top_score": 19
+        },
+        "ag": {
+            "symbol": "/b/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 20,
+            "top_score": 21
+        },
+        "ah": {
+            "symbol": "/f/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 22,
+            "top_score": 23
+        },
+        "ai": {
+            "symbol": "/v/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 24,
+            "top_score": 25
+        },
+        "aj": {
+            "symbol": "/tʃ/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 26,
+            "top_score": 27
+        },
+        "ak": {
+            "symbol": "/dʒ/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 28,
+            "top_score": 29
+        },
+        "al": {
+            "symbol": "/m/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 30,
+            "top_score": 31
+        },
+        "am": {
+            "symbol": "/l/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 32,
+            "top_score": 33
+        },
+        "an": {
+            "symbol": "/j/",
+            "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
+            "last_score": 34,
+            "top_score": 35
+        }
+
     }
-    
-  }
 }
 

@@ -2,294 +2,85 @@
   "k_error": 0,
   "msg": "操作成功",
   "data": {
-    1: {
+"1": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    3: {
+    "3": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    4: {
+    "4": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    5: {
+    "5": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    6: {
+   "6": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    7: {
+    "7": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    8: {
+    "8": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    9: {
+    "9": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    10: {
+    "10": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    11: {
+    "11": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    12: {
+    "12": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    13: {
+    "13": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     },
-    14: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    15: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    16: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    17: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    18: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    19: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    20: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    21: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    22: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    23: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    24: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    25: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    26: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    28: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    29: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    30: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    31: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    32: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    33: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    34: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    35: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    36: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    37: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    38: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    39: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    40: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    43: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    44: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    45: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    46: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    50: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    51: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    59: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    60: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    64: {
-      "symbol": "/iː/",
-      "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
-      "last_score": 66,
-      "top_socre": 88
-    },
-    65: {
+    "14": {
       "symbol": "/iː/",
       "audio": "https://i.xiao84.com/en-yinbiao/mp3/48yinbiaomp3/ss.mp3",
       "last_score": 66,
       "top_socre": 88
     }
+    
   }
 }
 

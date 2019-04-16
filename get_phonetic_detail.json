@@ -27,19 +27,25 @@
         "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
       },
       {
-        "symbol": "cla[sh]",
+        "symbol": "[sh]ell",
         "desc": "vi. 冲突",
         "phonogram": "/klæʃ/",
         "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
       },
       {
-        "symbol": "cla[sh]",
+        "symbol": "clash",
         "desc": "vi. 冲突",
         "phonogram": "/klæʃ/",
         "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
       },
       {
-        "symbol": "cla[sh]",
+        "symbol": "[sh]",
+        "desc": "vi. 冲突",
+        "phonogram": "/klæʃ/",
+        "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
+      },
+      {
+        "symbol": "cla[sh]s",
         "desc": "vi. 冲突",
         "phonogram": "/klæʃ/",
         "audio": "http://dict.youdao.com/dictvoice?type=1&audio=clash"
